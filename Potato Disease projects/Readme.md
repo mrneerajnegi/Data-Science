@@ -1,3 +1,3 @@
 # Readme
 
-This project will tell weather potato plan is healthy or not
+This project will tell whether potato plan is healthy or not
