@@ -1,2 +1,4 @@
 # Data-Science
-This is the repo for data science projects
+
+Dataset (Potato folders)
+https://www.kaggle.com/arjuntejaswi/plant-village
